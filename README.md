@@ -6,7 +6,9 @@ A human-in-the-loop proof of concept for structured Deal Desk intake, document i
 
 ## Live demo
 
-**Streamlit:** `[ADD YOUR LIVE DEMO URL]`
+**Live demo (Streamlit):** https://ana-aralde-ai-deal-desk.streamlit.app/
+
+**GitHub repository:** https://github.com/ana-aralde/ai-deal-desk-workflow
 
 ## Why I built this
 
